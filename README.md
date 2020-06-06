@@ -3,8 +3,8 @@
 • MySQL Database 
 # Desktop-Application: - 
 # Object Oriented Programing (JAVA):
-• Jframes 
-• Java DB library.  
+- Jframes 
+- Java DB library.  
 
 # Our system have the following functions: 
 - Add new Admin. 
